@@ -1,0 +1,4 @@
+repository "Covid Fight@wechat_os_qy02wzhom4qhdjjpqo2yiho8o@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
